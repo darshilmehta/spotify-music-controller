@@ -1,1 +1,1 @@
-# spotify-music-controller
+# Spotify Music Controller
